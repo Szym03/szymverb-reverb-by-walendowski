@@ -1,0 +1,9 @@
+# This file tells git not to track certain files and directories. They
+# should only live on your machine and not be submitted to the instructor
+
+.vscode
+*.dSYM
+.DS_Store
+a.out
+JUCE
+build
